@@ -6,8 +6,8 @@
 
 <ul>
   <li>Sou desenvolvedor / analista</li>
-    <ul><li>Formado em Ciência de Dados na Faculdade Estácio</li></ul>
-  <li>Estou me aprofundando em Python e Java no framework Spring Boot.</li>
+  <li>Formado em Ciência de Dados na Faculdade Estácio.</li>
+	<ul><li>Estou me aprofundando em Python e Java no framework Spring Boot.</li></ul>
 </ul>
 
 #### Meu status no GitHub:
