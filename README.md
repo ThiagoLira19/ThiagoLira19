@@ -1,6 +1,6 @@
 ## Ola!
 
-### Meu nome Thiago Lira! Bem-vindo(a) ao meu perfil do GitHub...
+### Meu nome é Thiago Lira! Bem-vindo(a) ao meu perfil do GitHub...
 
 #### O que ando fazendo atualmente:
 
