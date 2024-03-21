@@ -13,8 +13,8 @@
 #### Meu status no GitHub:
 
 <div align="center">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoLira19&layout=compact&langs_count=7&theme=highcontrast"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoLira19&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoLira19&layout=donut&langs_count=7&theme=highcontrast"/>
+    	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoLira19&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
 </div>
 
 #### Perfis, contatos e redes sociais:
