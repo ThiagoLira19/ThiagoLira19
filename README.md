@@ -6,7 +6,7 @@
 
 <ul>
   <li>Sou desenvolvedor / analista</li>
-	<ul><li>Trabalho Atualmente na empresa Vivo S/A.</li></ul>
+	<ul><li>Trabalho Atualmente na empresa <a href="https://www.telefonica.com.br" target="_blank">Telefonica Brasil S/A</a>.</li></ul>
   <li>Formado em Ciência de Dados na Faculdade Estácio.</li>
 	<ul><li>Estou me aprofundando em Python e Java no framework Spring Boot.</li></ul>
 </ul>
