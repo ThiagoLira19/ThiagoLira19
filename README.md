@@ -2,7 +2,7 @@
 
 ### Meu nome é Thiago Lira! Bem-vindo(a) ao meu perfil do GitHub...
 
-#### O que ando fazendo atualmente:
+#### O que estou fazendo atualmente:
 
 <ul>
   <li>Sou desenvolvedor / analista</li>
