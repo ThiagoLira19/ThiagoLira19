@@ -8,8 +8,8 @@
   <li>Sou desenvolvedor / analista</li>
 	<ul><li>Trabalho Atualmente na empresa <a href="https://www.telefonica.com.br" target="_blank">Telefonica Brasil S/A</a>.</li></ul>
   <li>Formado em Ciência de Dados na <a href="https://estacio.br/" target="_blank">Faculdade Estácio</a>.</li>
-  <li>Curso concluído de Programação em Python no <a href="https://www.rj.senac.br/" target="_blank">SENAC-RJ</a>.</li>
 	<ul><li>Estou me aprofundando em Python e Java no framework Spring Boot.</li></ul>
+  <li>Curso concluído de Programação em Python no <a href="https://www.rj.senac.br/" target="_blank">SENAC-RJ</a>.</li>
   <li>Curso concluído de Análise de Dados com Power BI no <a href="https://www.rj.senac.br/" target="_blank">SENAC-RJ</a>.</li>
 
 </ul>
