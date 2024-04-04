@@ -8,7 +8,10 @@
   <li>Sou desenvolvedor / analista</li>
 	<ul><li>Trabalho Atualmente na empresa <a href="https://www.telefonica.com.br" target="_blank">Telefonica Brasil S/A</a>.</li></ul>
   <li>Formado em Ciência de Dados na Faculdade Estácio.</li>
+  <li>Curso concluído de Programação em Python no SENAC-RJ.</li>
+  <li>Curso concluído de Análise de Dados com Power BI no SENAC-RJ.</li>
 	<ul><li>Estou me aprofundando em Python e Java no framework Spring Boot.</li></ul>
+
 </ul>
 
 #### Linguagens que mais uso:
