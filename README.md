@@ -15,9 +15,9 @@
 
 </ul>
 
-#### Linguagens que mais uso:
+#### Linguagens e tecnologias que mais uso:
 
-<div dir="auto"><br>
+<div dir="auto">
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,php,js,html,css,bootstrap,mysql,postman,spring,sqlite,selenium,vscode,maven,jenkins,flask,androidstudio,anaconda,jquery,docker&theme=light" />
