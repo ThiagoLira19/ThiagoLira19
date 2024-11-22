@@ -8,7 +8,6 @@
   <li>Sou desenvolvedor / Analista de Dados</li>
 	<ul><li>Trabalho atualmente na empresa <a href="https://www.vtal.com" target="_blank">V.tal</a>.</li></ul>
   <li>Formado em Ciência de Dados na <a href="https://estacio.br/" target="_blank">Faculdade Estácio</a>.</li>
-	<ul><li>Estou me aprofundando em Python e Java.</li></ul>
   <li>Curso concluído de Análise de Dados - Big Data Science com Python no <a href="https://www.rj.senac.br/" target="_blank">SENAC-RJ</a>.</li>
   <li>Curso concluído de Programação em Python no <a href="https://www.rj.senac.br/" target="_blank">SENAC-RJ</a>.</li>
   <li>Curso concluído de Análise de Dados com Power BI no <a href="https://www.rj.senac.br/" target="_blank">SENAC-RJ</a>.</li>
