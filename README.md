@@ -37,8 +37,9 @@
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Anaconda-Dark.svg"><img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Anaconda-Dark.svg" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JQuery.svg"><img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JQuery.svg" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg"><img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg"><img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg" style="max-width: 100%;"></a>
 </div>
-
+[![My Skills](https://skillicons.dev/icons?i=java,python,php,js,html,css,bootstrap,mysql,postman,spring,sqlite,selenium,vscode,maven,jenkins,flask,androidstudio,anaconda,jquery,docker&theme=light)](https://skillicons.dev)
 #### Meu status no GitHub:
 
 <div align="center">
