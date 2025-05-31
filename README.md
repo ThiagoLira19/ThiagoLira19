@@ -19,7 +19,7 @@
 <div dir="auto">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,php,js,react,html,css,bootstrap,mysql,postman,spring,sqlite,github,selenium,vscode,maven,jenkins,flask,androidstudio,anaconda,jquery,docker,ps&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,python,php,js,react,html,css,bootstrap,mysql,postman,spring,sqlite,github,selenium,vscode,maven,jenkins,flask,androidstudio,anaconda,jquery,docker,ps,wordpress,arduino,firebase,postgresql&theme=light" />
   </a>
 </p>
 </div>
