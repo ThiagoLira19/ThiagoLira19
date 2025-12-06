@@ -24,14 +24,6 @@
 </p>
 </div>
 
-#### Meu status no GitHub:
-
-<div align="center">
-	<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoLira19&hide_progress=true&langs_count=10&theme=highcontrast"/>
-	<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoLira19&layout=donut-vertical&langs_count=5&theme=highcontrast"/>
-    	<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ThiagoLira19&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-</div>
-
 #### Perfis, contatos e redes sociais:
 <div align="center"> 
   <a href="https://www.github.com/ThiagoLira19/" target="_blank"><img src="https://img.shields.io/badge/GitHub-330F63?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
